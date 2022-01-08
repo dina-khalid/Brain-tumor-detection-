@@ -20,3 +20,6 @@
 
 ### 5. Final result:
 * Validation accuracy 97%
+
+[Kaggle Notebook link](https://www.kaggle.com/dinakhalid/brain-tumor-detection)
+
