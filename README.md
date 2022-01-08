@@ -1,4 +1,4 @@
-# Brain-tumor-detection-
+# Brain-tumor-detection-CNN Model
 
 ### 1. Exploring data:
 * Useing  [Brain Tumor Detection 2020 kaggle dataset](https://www.kaggle.com/ahmedhamada0/brain-tumor-detection)
